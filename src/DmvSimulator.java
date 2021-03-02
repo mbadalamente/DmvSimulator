@@ -11,10 +11,11 @@ public class DmvSimulator {
 		System.out.println("Now helping: " + personNumber);
 		int percent = (int) (Math.random() * 100);
 		if(percent != 0) {
-			System.out.println("You do not have all your papers, loser.");
+			System.out.println("You do not have all your papers, loser. MWAHAHAHAHA");
 		}
 		else {
 			System.out.println("Perfect! You have all the required papers!");
 		}
+
 	}
 }
