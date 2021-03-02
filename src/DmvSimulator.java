@@ -8,7 +8,7 @@ public class DmvSimulator {
 			System.out.println("Now helping: " + i);
 		}
 		System.out.println("Now helping: " + personNumber);
-		System.out.println("Sorry, you do not have what we need to help you at this time.");
+		System.out.println("You do not have all your papers, loser.");
 
 	}
 }
